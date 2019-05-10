@@ -1,6 +1,7 @@
 # Simple Colors exam project test
 
 ## Description
+This project prints "Hello" in diferent colors to the console.
 
 ## Installation
 
@@ -8,7 +9,6 @@
     $ git clone https://github.com/python-elective-1-spring-2019/pip_test.git
     $ cd pip_test
     $ pip install -r requirements.txt
-
 ````
 
 
@@ -16,7 +16,6 @@
 
 ````
     python script.py
-
 ````
 
 ### Login info
